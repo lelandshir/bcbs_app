@@ -45,6 +45,10 @@ The project is organized into the following directories:
 - bcbs_app/server: Contains the backend server code.
 - bcbs_app/ui: Contains the React front-end code.
 
+### Testing
+Note: I did begin adding unit tests but felt I was out of time. 
+- from the `/ui` directory run `npm test`, however don't expect the tests to pass just yet
+
 ### Technologies Used
 - Backend: Node.js, Express.js
 - Front-end: React, HTML, CSS
