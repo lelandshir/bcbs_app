@@ -10,7 +10,7 @@ This is a CRUD, auth and authorization web application that combines a backend s
 ## Getting Started
 
 1. Clone the project repository:
- - git clone <repository_url>
+ - run `git clone --recurse-submodules https://github.com/lelandshir/bcbs_app.git` to make sure that the sub-modules (aka "sub-repositories") are also cloned along with the main repository
  - Install the dependencies for the backend server:
     - `cd server`
     - run `npm install`
