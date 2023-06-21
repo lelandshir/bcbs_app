@@ -1,0 +1,3 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/lelandshir/bcbs_users.git
