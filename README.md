@@ -14,6 +14,8 @@ This is a CRUD, auth and authorization web application that combines a backend s
  - Install the dependencies for the backend server:
     - `cd server`
     - run `npm install`
+- Create Environment Variables
+    - in the root of `server` run `touch .env` and add ".env" to a `.gitignore` file. Add this line to the new `.env` file `SESSION_SECRET=someSecret`
 - Install the dependencies for the React front-end:
     -  `cd ui`
     - `npm install`
